@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wecare/static/css/main.c55eaed3.css",
-    "main.js": "/wecare/static/js/main.f15b10cd.js",
+    "main.js": "/wecare/static/js/main.91ee8595.js",
     "static/js/787.e7654563.chunk.js": "/wecare/static/js/787.e7654563.chunk.js",
     "static/media/bg-homepage-2560x1440.jpg": "/wecare/static/media/bg-homepage-2560x1440.ecacc10934c70f0f6ca0.jpg",
     "index.html": "/wecare/index.html",
     "main.c55eaed3.css.map": "/wecare/static/css/main.c55eaed3.css.map",
-    "main.f15b10cd.js.map": "/wecare/static/js/main.f15b10cd.js.map",
+    "main.91ee8595.js.map": "/wecare/static/js/main.91ee8595.js.map",
     "787.e7654563.chunk.js.map": "/wecare/static/js/787.e7654563.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c55eaed3.css",
-    "static/js/main.f15b10cd.js"
+    "static/js/main.91ee8595.js"
   ]
 }
